@@ -1,35 +1,30 @@
-# StockSense
+# 📈 StockSense
 
-A modern, real-time stock market tracking application built with Streamlit and Yahoo Finance.
+🚀 A modern, real-time stock market tracking application built with **Streamlit** and **Yahoo Finance**.
 
-## Features
-- Real-time stock tracking with OHLCV data
-- Interactive charts via Plotly (Candlestick, Volume)
-- Technical Indicators (RSI, MACD)
-- Multi-stock performance comparison
-- Dynamic Watchlist saved to session state
-- Latest news feed
-- Data export (CSV)
+---
 
-## Setup Instructions
+## ✨ Features
 
-1. **Clone the repository**
-2. **Create a virtual environment (optional but recommended)**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-3. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. **Run the application**
-   ```bash
-   streamlit run app.py
-   ```
+- 📊 Real-time stock tracking with OHLCV data
+- 🕯️ Interactive charts using Plotly  
+  - Candlestick Charts  
+  - Volume Analysis
+- 📉 Technical Indicators  
+  - RSI  
+  - MACD
+- 🔍 Multi-stock performance comparison
+- ⭐ Dynamic Watchlist saved to session state
+- 📰 Latest stock & finance news feed
+- 📤 Export stock data to CSV
+- ⚡ Fast and responsive UI
 
-## Technologies
-- Streamlit
-- yfinance
-- Plotly
-- Pandas
+---
+
+## 🛠️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone <your-repo-link>
+cd StockSense
